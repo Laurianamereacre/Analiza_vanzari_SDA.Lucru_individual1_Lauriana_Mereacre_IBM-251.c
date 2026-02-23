@@ -1,1 +1,3 @@
 # Analiza_vanzari_SDA.Lucru_individual1_Lauriana_Mereacre_IBM-251.c
+#Analiza_vanzari_SDA
+Lucru_Individual_Nr.1
